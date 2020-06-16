@@ -1,0 +1,29 @@
+.banner {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    font-family:sans-serif;
+    line-height: 1.5em;
+    font-style: italic;
+    font-size: 12pt;
+
+    color: black;
+
+}
+
+a {
+  color: #e31f26;
+  text-decoration: none;
+}
+
+h1 {
+  color: #e31f26;
+  font-style: normal;
+}
+
+img {
+  margin-top: 10px;
+}
